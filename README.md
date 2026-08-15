@@ -36,6 +36,7 @@ Assignment-12/
 
 ## ⚙️ Prerequisites & Secure Setup
 1. **Clone the repository**:
+   ```bash
    git clone https://github.com/mohamed90315/Intelligent-ML-Foundations.git
    cd Intelligent-ML-Foundations
    ```
