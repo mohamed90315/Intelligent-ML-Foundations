@@ -37,7 +37,7 @@ Assignment-12/
 ## ⚙️ Prerequisites & Secure Setup
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/mohamed90315/AI-Assignment-12-ML.git
    cd Assignment-12
    ```
 2. **Install dependencies**:
