@@ -1,4 +1,4 @@
-# Assignment 12: Machine Learning & Data Analysis Algorithms
+# Intelligent-ML-Foundations
 
 This repository contains a secure, refactored suite of machine learning algorithms (like Perceptrons) and dataset analysis tools developed for the AI course. The codebase has been extensively redesigned to ensure robust execution, environment separation, and professional-grade security.
 
@@ -36,9 +36,8 @@ Assignment-12/
 
 ## ⚙️ Prerequisites & Secure Setup
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/mohamed90315/AI-Assignment-12-ML.git
-   cd Assignment-12
+   git clone https://github.com/mohamed90315/Intelligent-ML-Foundations.git
+   cd Intelligent-ML-Foundations
    ```
 2. **Install dependencies**:
    It is recommended to run this inside a virtual environment (`venv`).
